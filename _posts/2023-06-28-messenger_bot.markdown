@@ -4,8 +4,6 @@ title: How I made a simple Messenger bot
 permalink: /how-i-made-a-simple-messenger-bot/
 ---
 
-## How I made a simple Messenger bot
-
 Deserunt proident veniam consequat amet. Culpa esse reprehenderit nisi labore nisi officia irure consectetur aute ullamco mollit duis quis deserunt. Do fugiat excepteur irure magna aliqua.
 
 Aliqua voluptate tempor ex amet anim laborum excepteur consectetur nisi. Fugiat in ullamco aliquip reprehenderit dolor enim est. Sit nostrud adipisicing dolore do consectetur commodo adipisicing pariatur.
