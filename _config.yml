@@ -21,8 +21,9 @@
 title: Wesley Barros
 email: wesleybarros950@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello! Welcome to my blog. I use this place to share stuff I find
-  interesting or helpful.
+  Olá! Boas vindas ao meu site pessoal. Eu uso esse espaço para
+  escrever sobre coisas que eu acho interessantes ou para ajudar
+  a quem precisa.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wesley950.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: wesley950

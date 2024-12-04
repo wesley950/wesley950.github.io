@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome
+title: Boas vindas
 ---
 
-Hi, everyone! This is my personal blog.
+Olá, este é o meu blog pessoal e bloco de anotações.
